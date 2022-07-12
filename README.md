@@ -1,4 +1,4 @@
-# Wether-Prediction
+# Weather-Prediction
 This Project is based on Artificial Intelligence or Machine Learning..
 
 
